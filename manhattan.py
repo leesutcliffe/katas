@@ -1,5 +1,4 @@
 class Point:
-    point = ()
     def __init__ (self, pointA, pointB):
         self.point = (pointA, pointB)
 
