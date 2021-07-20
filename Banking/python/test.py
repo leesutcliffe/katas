@@ -1,1 +1,0 @@
-headings = "{:<15}{:<10}{:<10}".format("DATE", "AMOUNT", "BALANCE")
