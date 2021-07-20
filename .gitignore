@@ -1,0 +1,7 @@
+**/__pycache__
+**.pytest_cache
+**/html
+**/.mutmut*
+**/*.lock
+*.pyc
+**/.DS_Store
